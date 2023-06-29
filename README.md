@@ -15,7 +15,7 @@ This repository contains code for a user registration and login API implemented 
 
 1. Clone the repository:
 
-git clone https://github.com/your/repo.git
+git clone https://github.com/vishalpadaswan3/App_HTS/tree/master
 
 markdown
 Copy code
